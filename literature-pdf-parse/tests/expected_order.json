@@ -1,0 +1,62 @@
+[
+ {
+  "page": 1,
+  "text": "L1 left column first line alpha beta"
+ },
+ {
+  "page": 1,
+  "text": "L2 left column second line gamma"
+ },
+ {
+  "page": 1,
+  "text": "L3 left column third line delta epsilon"
+ },
+ {
+  "page": 1,
+  "text": "L4 left column next paragraph zeta"
+ },
+ {
+  "page": 1,
+  "text": "L5 left column next paragraph eta"
+ },
+ {
+  "page": 1,
+  "text": "R1 right column first line theta"
+ },
+ {
+  "page": 1,
+  "text": "R2 right column second line iota"
+ },
+ {
+  "page": 1,
+  "text": "R3 right column next paragraph kappa"
+ },
+ {
+  "page": 1,
+  "text": "Synthetic Two-Column Test Document"
+ },
+ {
+  "page": 1,
+  "text": "1"
+ },
+ {
+  "page": 2,
+  "text": "L1 page two left column lambda"
+ },
+ {
+  "page": 2,
+  "text": "L2 page two left column mu"
+ },
+ {
+  "page": 2,
+  "text": "R1 page two right column nu"
+ },
+ {
+  "page": 2,
+  "text": "Synthetic Two-Column Test Document"
+ },
+ {
+  "page": 2,
+  "text": "2"
+ }
+]
