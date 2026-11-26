@@ -1,0 +1,13 @@
+[
+  {"page": 1, "x0": 50, "y0": 30,  "x1": 530, "y1": 42,  "text": "Journal of Demo Studies, Vol. 1"},
+  {"page": 1, "x0": 50, "y0": 120, "x1": 280, "y1": 132, "text": "Left column, paragraph one, line one."},
+  {"page": 1, "x0": 50, "y0": 134, "x1": 280, "y1": 146, "text": "Left column, paragraph one, line two."},
+  {"page": 1, "x0": 50, "y0": 200, "x1": 280, "y1": 212, "text": "Left column, paragraph two."},
+  {"page": 1, "x0": 300, "y0": 120, "x1": 530, "y1": 132, "text": "Right column, paragraph one."},
+  {"page": 1, "x0": 300, "y0": 160, "x1": 530, "y1": 172, "text": "Right column, paragraph two."},
+  {"page": 1, "x0": 470, "y0": 780, "x1": 480, "y1": 792, "text": "1"},
+  {"page": 2, "x0": 50, "y0": 30,  "x1": 530, "y1": 42,  "text": "Journal of Demo Studies, Vol. 1"},
+  {"page": 2, "x0": 50, "y0": 120, "x1": 280, "y1": 132, "text": "Left column continued."},
+  {"page": 2, "x0": 300, "y0": 120, "x1": 530, "y1": 132, "text": "Right column continued."},
+  {"page": 2, "x0": 470, "y0": 780, "x1": 480, "y1": 792, "text": "2"}
+]
